@@ -8,4 +8,7 @@ Torisava-kh/Torisava-kh is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-現在　調整中
+[2021.6.7]
+はじめてのGitHub
+VisualStudioと連携
+既存プロジェクトのプッシュを開始
