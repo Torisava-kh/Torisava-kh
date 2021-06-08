@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
 はじめてのGitHub
 VisualStudioと連携
 既存プロジェクトのプッシュを開始
+
+[2021.6.9]
+VBAマクロの保管用にリポジトリ作成
